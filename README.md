@@ -12,3 +12,4 @@ Install RabbitMQ in windows :
 7. Login page default username and password is guest 
 8. After successfully login you should see RabbitMQ Home page
 
+"# test-rabbitmq" 
